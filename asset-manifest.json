@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ivan-S7/2do-proyecto-fcc-espanol/static/css/main.f1763cce.css",
+    "main.js": "/Ivan-S7/2do-proyecto-fcc-espanol/static/js/main.15c71ff4.js",
+    "static/media/FreeCodeCamp_logo.png": "/Ivan-S7/2do-proyecto-fcc-espanol/static/media/FreeCodeCamp_logo.bbb5d969bd29770b8885.png",
+    "index.html": "/Ivan-S7/2do-proyecto-fcc-espanol/index.html",
+    "main.f1763cce.css.map": "/Ivan-S7/2do-proyecto-fcc-espanol/static/css/main.f1763cce.css.map",
+    "main.15c71ff4.js.map": "/Ivan-S7/2do-proyecto-fcc-espanol/static/js/main.15c71ff4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1763cce.css",
+    "static/js/main.15c71ff4.js"
+  ]
+}
